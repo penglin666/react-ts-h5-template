@@ -1,0 +1,11 @@
+.ant-layout-header{
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  >.ant-menu{
+    min-width:1000px;
+    max-width: 1156px;
+    margin:auto;
+  }
+}

@@ -1,0 +1,11 @@
+.ant-layout-content{
+  margin-top: 64px;
+  background-color: #f4f4f4;
+  min-height:calc(100vh - 64px);
+  >div{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top:10px;
+    background-color: #fff;
+  }
+}
